@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27849482191",
+    "project_id": "personaldictionary-7ec31",
+    "storage_bucket": "personaldictionary-7ec31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27849482191:android:65c4ee4400b5fa66e87cba",
+        "android_client_info": {
+          "package_name": "org.techtown.personaldictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27849482191-328hmqs2cqr83fc7oq7lna6qk2t8dkip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NWT6Y9DGzzcOjp5rRm2Qc1UPJI-0kLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27849482191-328hmqs2cqr83fc7oq7lna6qk2t8dkip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
