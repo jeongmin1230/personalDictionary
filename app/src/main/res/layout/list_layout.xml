@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="#565657"
     android:orientation="horizontal"
     android:layout_margin="10dp">
 
@@ -15,6 +16,7 @@
         android:paddingLeft="10dp"
         android:text="단어"
         android:id="@+id/listWord"
+        android:textColor="@color/white"
         android:textSize="25dp"
         android:textStyle="bold" />
 
