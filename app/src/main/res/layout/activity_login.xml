@@ -60,7 +60,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="JOIN"
-            android:layout_marginRight="20dp"
             android:textColor="#FFF1A7"
             android:background="#00ff0000"
             android:onClick="onClickJoin" />
