@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
+    android:background="#565657"
     android:layout_margin="10dp">
 
     <TextView
@@ -12,8 +13,8 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:textAlignment="center"
-        android:paddingLeft="10dp"
         android:text="단어"
+        android:textColor="@color/white"
         android:id="@+id/listWord"
         android:textSize="25dp"
         android:textStyle="bold" />
